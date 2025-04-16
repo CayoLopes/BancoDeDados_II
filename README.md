@@ -6,3 +6,7 @@ Repositório para a disciplina de Projeto e Administração de Banco de Dados do
 **Nome:** Cayo César da Costa Lopes
 
 **Email:** cayocesarlopes@gmail.com
+
+## Tarefa01
+
+- [Tarefa01](tarefa01.md)
