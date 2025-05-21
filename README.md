@@ -10,3 +10,7 @@ Repositório para a disciplina de Projeto e Administração de Banco de Dados do
 ## Tarefa01
 
 - [Tarefa01](tarefas/t01/tarefa01.md)
+
+## Tarefa01
+
+- [Tarefa02](tarefas/t02/tarefa02-orm.md)
